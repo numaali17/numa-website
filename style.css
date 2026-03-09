@@ -1,0 +1,31 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f6f8;
+margin: 40px;
+}
+
+nav a {
+margin-right: 20px;
+text-decoration: none;
+color: #2c6ed5;
+font-weight: bold;
+}
+
+h1 {
+color: #1a3c6e;
+}
+
+h2 {
+color: #1a3c6e;
+}
+
+p {
+max-width: 800px;
+line-height: 1.6;
+}
+
+img {
+margin-top: 20px;
+margin-bottom: 20px;
+border-radius: 10px;
+}
