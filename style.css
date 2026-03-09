@@ -1,31 +1,32 @@
 body {
-font-family: Arial, sans-serif;
-background-color: #f4f6f8;
-margin: 40px;
+  font-family: Arial, sans-serif;
+  background-color: #ffe6f0;  /* light pink background */
+  margin: 40px;
+  color: black;  /* text color */
 }
 
 nav a {
-margin-right: 20px;
-text-decoration: none;
-color: #2c6ed5;
-font-weight: bold;
+  margin-right: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
 }
 
 h1 {
-color: #1a3c6e;
+  color: black;
 }
 
 h2 {
-color: #1a3c6e;
+  color: black;
 }
 
 p {
-max-width: 800px;
-line-height: 1.6;
+  max-width: 800px;
+  line-height: 1.6;
 }
 
 img {
-margin-top: 20px;
-margin-bottom: 20px;
-border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
 }
