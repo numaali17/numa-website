@@ -1,8 +1,8 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #ffe6f0;  /* light pink background */
+  background-color: #ffdbe9;
   margin: 40px;
-  color: black;  /* text color */
+  color: black;
 }
 
 nav a {
@@ -29,4 +29,5 @@ img {
   margin-top: 20px;
   margin-bottom: 20px;
   border-radius: 10px;
+  width: 400px;
 }
